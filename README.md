@@ -13,8 +13,8 @@
 
 <h2 aling="center"> Linguagens: </h2>
 <p aling="left">
-<a target="blank"><img aling="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="60px" width="120px"/></a>
+<a target="blank"><img aling="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="60px" width="150px"/></a>
 <a target="blank"><img aling="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="60px" width="120px"/></a>
-<a target="blank"><img aling="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="60px" width="125px"/></a>
+<a target="blank"><img aling="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="60px" width="120px"/></a>
 <a target="blank"><img aling="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="60px" width="120px"/></a>
 </p>
