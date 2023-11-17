@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi!!! My name is Caetano
+#### Sou iniciante, estou apredendo C#, html, CSS e JS
 
-<!--
-**Caetano-Ventura-Coutinho/Caetano-Ventura-Coutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente stou estudando na **Etec Prof. Basilides de Godoy**;
+
+- 😄 Pronomes: Ele/Dele; He/Him;
+
+<h2 aling="center"> Redes Sociais: </h2>
+<a href="https://www.linkedin.com/in/caetano-coutinho-aa8b22294/" target="blank"><img aling="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Caetano Ventura Coutinho" height="60px" width="200px"/></a>
